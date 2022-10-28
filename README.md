@@ -16,4 +16,4 @@
 # Changes:
 # Additional Enemies:
 # Added 1 Enemy_5
-# (bigger version of Enemy_4 with more healht but much slower)
+# (bigger version of Enemy_4 with more health but much slower)
