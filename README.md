@@ -12,3 +12,8 @@
 # (Spread) 
 # -increased the spread amount from three to five
 # -added projectile angles 20 and -20
+
+# Changes:
+# Additional Enemies:
+# Added 1 Enemy_5
+# (bigger version of Enemy_4 with more healht but much slower)
